@@ -1,0 +1,15 @@
+[
+    { "word": "사자", "image": "/img/apple.jpg" },
+    { "word": "가족", "image": "/img/family.jpg" },
+    { "word": "나무", "image": "/img/tree.jpg" },
+    { "word": "빠르다", "image": "/img/fast.jpg" },
+    { "word": "음식", "image": "/img/foods.jpg" },
+    { "word": "집", "image": "/img/house.jpg" }, 
+     { "word": "남자", "image": "/img/man.jpg" },
+    { "word": "돈", "image": "/img/money.jpg" },
+    { "word": "영화", "image": "/img/movie.jpg" },
+    { "word": "공원", "image": "/img/park.jpg" },
+    { "word": "읽다", "image": "/img/read.jpg" },
+    { "word": "여자", "image": "/img/woman.jpg" }
+    
+]
